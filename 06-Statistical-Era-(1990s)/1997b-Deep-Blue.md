@@ -6,14 +6,6 @@
   <a href="https://www.sciencedirect.com/science/article/pii/S0004370201001291">📄 Deep Blue (Artificial Intelligence Journal 2002)</a> · Feng-hsiung Hsu (Born Keelung, Taiwan, 1959), Murray Campbell (Canadian), with A. Joseph Hoane, Joel Benjamin, C.J. Tan
 </p>
 
-<p align="center"><em>The most famous AI moment of the 1990s. The technical reality was less than the public image.</em></p>
-
-<p align="center">
-  <img src="../.assets/deep-blue-search.svg" alt="Deep Blue: chessboard, search tree, victory" width="720" />
-</p>
-
-<p align="center"><em>Deep Blue's pipeline: search the chessboard, evaluate positions, pick the best move. Brute-force speed, hand-coded knowledge, no learning.</em></p>
-
 ---
 
 <img src="../.assets/h-big-idea.svg" alt="The Big Idea" height="40" />
@@ -25,6 +17,12 @@ The technical reality was less dramatic. Deep Blue was a custom-built supercompu
 The architect of Deep Blue was Feng-hsiung Hsu, a Taiwanese-American computer scientist who had started chess machine work at Carnegie Mellon in 1985 and joined IBM in 1989. The team included Murray Campbell, the AI lead, who had also come from Carnegie Mellon. The project was a hardware engineering achievement. Hsu's custom chess chips were the fastest specialized chess hardware ever built. The match against Kasparov was the culmination of more than a decade of patient hardware-software co-design. Hsu wrote afterwards that the victory was "not a case of John Henry versus the steam engine; instead, it was man-as-toolmaker defeating man-as-performer." That framing was honest. Deep Blue was a tool, built by humans, that did one specific task very fast.
 
 The cultural impact ran far ahead of the technical content. Most people who heard about the match did not know what alpha-beta search was. They saw a machine winning at chess and understood it as a machine thinking. The narrative that machines were beginning to challenge humans in domains long considered uniquely human had begun. That narrative would prove durable. It would shape public expectations of AI for the next twenty years. The technical content of Deep Blue, by contrast, would prove almost irrelevant to the actual story of AI's development. The future of AI lay with the statistical and learning-based methods this walk has been tracing, not with the brute-force search Deep Blue exemplified.
+
+<p align="center">
+  <img src="../.assets/deep-blue-search.svg" alt="Deep Blue: chessboard, search tree, victory" width="720" />
+</p>
+
+<p align="center"><em>Deep Blue's pipeline: search the chessboard, evaluate positions, pick the best move. Brute-force speed, hand-coded knowledge, no learning.</em></p>
 
 ---
 
