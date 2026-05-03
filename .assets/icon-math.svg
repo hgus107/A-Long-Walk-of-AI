@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none" stroke="#111" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Mathematics">
+  <rect x="6" y="6" width="36" height="36" rx="2"/>
+  <text x="24" y="22" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="11" font-style="italic" fill="#111" stroke="none">f(x)</text>
+  <line x1="11" y1="28" x2="37" y2="28" stroke-width="1.2"/>
+  <text x="24" y="38" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="13" fill="#111" stroke="none">&#931;</text>
+</svg>

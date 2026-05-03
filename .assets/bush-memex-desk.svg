@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" font-family="Georgia, 'Times New Roman', serif" role="img" aria-label="The Memex desk: two slanted screens on top, keyboard and levers below, microfilm storage inside">
+  <!-- Outer box -->
+  <rect x="20" y="20" width="680" height="380" fill="none" stroke="#000" stroke-width="1.5" rx="4"/>
+
+  <!-- Title -->
+  <text x="360" y="55" text-anchor="middle" font-size="17" font-weight="600">The Memex Desk (1945, imagined)</text>
+
+  <!-- ===== Two slanted screens on top of desk ===== -->
+  <!-- Left screen: tilts away to the right -->
+  <polygon points="180,80 320,72 330,140 195,150" fill="#fafafa" stroke="#000" stroke-width="1.4"/>
+  <text x="252" y="118" text-anchor="middle" font-size="13" font-style="italic">Document A</text>
+
+  <!-- Right screen: tilts away to the left -->
+  <polygon points="400,72 540,80 525,150 390,140" fill="#fafafa" stroke="#000" stroke-width="1.4"/>
+  <text x="465" y="118" text-anchor="middle" font-size="13" font-style="italic">Document B</text>
+
+  <!-- ===== Desktop surface (thin slab) ===== -->
+  <rect x="120" y="155" width="480" height="14" fill="#eee" stroke="#000" stroke-width="1.4"/>
+
+  <!-- ===== Cabinet body (front face of desk) ===== -->
+  <rect x="120" y="169" width="480" height="200" fill="none" stroke="#000" stroke-width="1.4"/>
+
+  <!-- ===== Keyboard row ===== -->
+  <text x="160" y="195" font-size="12" fill="#555">keys</text>
+  <rect x="155" y="200" width="195" height="22" fill="none" stroke="#000" stroke-width="1.2"/>
+  <!-- key squares -->
+  <line x1="180" y1="200" x2="180" y2="222" stroke="#000" stroke-width="1"/>
+  <line x1="205" y1="200" x2="205" y2="222" stroke="#000" stroke-width="1"/>
+  <line x1="230" y1="200" x2="230" y2="222" stroke="#000" stroke-width="1"/>
+  <line x1="255" y1="200" x2="255" y2="222" stroke="#000" stroke-width="1"/>
+  <line x1="280" y1="200" x2="280" y2="222" stroke="#000" stroke-width="1"/>
+  <line x1="305" y1="200" x2="305" y2="222" stroke="#000" stroke-width="1"/>
+  <line x1="325" y1="200" x2="325" y2="222" stroke="#000" stroke-width="1"/>
+
+  <!-- ===== Lever / button bank ===== -->
+  <text x="445" y="195" font-size="12" fill="#555">levers and buttons</text>
+  <rect x="385" y="200" width="180" height="22" fill="none" stroke="#000" stroke-width="1.2"/>
+  <!-- circles for buttons -->
+  <circle cx="405" cy="211" r="6" fill="none" stroke="#000" stroke-width="1.1"/>
+  <circle cx="425" cy="211" r="6" fill="none" stroke="#000" stroke-width="1.1"/>
+  <circle cx="445" cy="211" r="6" fill="none" stroke="#000" stroke-width="1.1"/>
+  <!-- vertical lever marks -->
+  <line x1="475" y1="203" x2="475" y2="219" stroke="#000" stroke-width="1.3"/>
+  <line x1="495" y1="203" x2="495" y2="219" stroke="#000" stroke-width="1.3"/>
+  <line x1="515" y1="203" x2="515" y2="219" stroke="#000" stroke-width="1.3"/>
+  <line x1="535" y1="203" x2="535" y2="219" stroke="#000" stroke-width="1.3"/>
+  <line x1="555" y1="203" x2="555" y2="219" stroke="#000" stroke-width="1.3"/>
+
+  <!-- ===== Cutaway window showing microfilm interior ===== -->
+  <text x="360" y="248" text-anchor="middle" font-size="12" fill="#555">cutaway: microfilm reels inside</text>
+  <rect x="155" y="255" width="410" height="100" fill="#f5f5f5" stroke="#000" stroke-width="1.2" stroke-dasharray="4,3"/>
+
+  <!-- Reel pair 1 -->
+  <circle cx="200" cy="290" r="16" fill="#fff" stroke="#000" stroke-width="1.3"/>
+  <circle cx="200" cy="290" r="3" fill="#000"/>
+  <circle cx="280" cy="290" r="16" fill="#fff" stroke="#000" stroke-width="1.3"/>
+  <circle cx="280" cy="290" r="3" fill="#000"/>
+  <line x1="200" y1="290" x2="280" y2="290" stroke="#000" stroke-width="1.5"/>
+
+  <!-- Reel pair 2 -->
+  <circle cx="360" cy="290" r="16" fill="#fff" stroke="#000" stroke-width="1.3"/>
+  <circle cx="360" cy="290" r="3" fill="#000"/>
+  <circle cx="440" cy="290" r="16" fill="#fff" stroke="#000" stroke-width="1.3"/>
+  <circle cx="440" cy="290" r="3" fill="#000"/>
+  <line x1="360" y1="290" x2="440" y2="290" stroke="#000" stroke-width="1.5"/>
+
+  <!-- Reel pair 3 (smaller, suggesting more rows) -->
+  <circle cx="200" cy="330" r="12" fill="#fff" stroke="#000" stroke-width="1.2"/>
+  <circle cx="200" cy="330" r="2" fill="#000"/>
+  <circle cx="260" cy="330" r="12" fill="#fff" stroke="#000" stroke-width="1.2"/>
+  <circle cx="260" cy="330" r="2" fill="#000"/>
+  <line x1="200" y1="330" x2="260" y2="330" stroke="#000" stroke-width="1.3"/>
+
+  <circle cx="340" cy="330" r="12" fill="#fff" stroke="#000" stroke-width="1.2"/>
+  <circle cx="340" cy="330" r="2" fill="#000"/>
+  <circle cx="400" cy="330" r="12" fill="#fff" stroke="#000" stroke-width="1.2"/>
+  <circle cx="400" cy="330" r="2" fill="#000"/>
+  <line x1="340" y1="330" x2="400" y2="330" stroke="#000" stroke-width="1.3"/>
+
+  <circle cx="480" cy="330" r="12" fill="#fff" stroke="#000" stroke-width="1.2"/>
+  <circle cx="480" cy="330" r="2" fill="#000"/>
+  <circle cx="540" cy="330" r="12" fill="#fff" stroke="#000" stroke-width="1.2"/>
+  <circle cx="540" cy="330" r="2" fill="#000"/>
+  <line x1="480" y1="330" x2="540" y2="330" stroke="#000" stroke-width="1.3"/>
+
+  <!-- Caption -->
+  <text x="360" y="385" text-anchor="middle" font-size="13" fill="#333">A mechanized personal library, drawn from Bush's description.</text>
+</svg>
