@@ -44,7 +44,7 @@ This repo is for everyone — the seasoned researcher, the aspiring one, the stu
 ## A Sample of What&#8217;s Inside
 
 <p align="center">
-  <img src=".assets/attention-mechanism.svg" alt="The attention mechanism: how a decoder learns where to look in the input at each output step" width="720" />
+  <img src=".assets/image2.png" alt="The attention mechanism: how a decoder learns where to look in the input at each output step" width="720" />
 </p>
 
 <p align="center"><em>From <a href="07-Deep-Learning-Awakens-(2000s-2017)/2014c-Bahdanau-Attention.md">Chapter on Attention, 2014</a> — every chapter is built around a custom diagram and the story behind it.</em></p>
