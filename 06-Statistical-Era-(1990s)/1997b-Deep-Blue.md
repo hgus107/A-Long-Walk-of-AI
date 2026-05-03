@@ -8,6 +8,12 @@
 
 <p align="center"><em>The most famous AI moment of the 1990s. The technical reality was less than the public image.</em></p>
 
+<p align="center">
+  <img src="../.assets/deep-blue-search.svg" alt="Deep Blue: chessboard, search tree, victory" width="720" />
+</p>
+
+<p align="center"><em>Deep Blue's pipeline: search the chessboard, evaluate positions, pick the best move. Brute-force speed, hand-coded knowledge, no learning.</em></p>
+
 ---
 
 <img src="../.assets/h-big-idea.svg" alt="The Big Idea" height="40" />
